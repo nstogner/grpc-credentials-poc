@@ -9,7 +9,7 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 
-	"github.com/nstogner/grpc-auth-poc/poc"
+	"github.com/nstogner/grpc-credentials-poc/poc"
 )
 
 func main() {

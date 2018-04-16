@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/nstogner/grpc-auth-poc/poc"
+	"github.com/nstogner/grpc-credentials-poc/poc"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
