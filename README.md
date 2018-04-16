@@ -1,4 +1,4 @@
-# gRPC Auth
+# gRPC Credentials
 
 ```sh
 # Terminal 1:
