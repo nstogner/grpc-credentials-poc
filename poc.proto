@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package poc;
+
+service Poc {
+  rpc Hey(Req) returns (Rep) {}
+}
+
+message Req {}
+message Rep {}
